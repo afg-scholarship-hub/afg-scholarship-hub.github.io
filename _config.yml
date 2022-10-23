@@ -20,7 +20,7 @@ description: "Fundamental knowledge on scholarships and support for access to ed
 #########################################################################################
 theme: "minima"
 
-#rss: rss
+rss: rss
 
 kramdown:
   syntax_highlighter_opts:
