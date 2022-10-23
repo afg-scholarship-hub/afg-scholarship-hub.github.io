@@ -10,6 +10,5 @@ The table below is regularly updated with the list of open scholarships for Afgh
 | Scholarship Program for Afghan Scholars and Students at Risk | Italy | Master | Fully-funded | Rolling | https://gchumanrights.org/research/projects/afghan-scholarship-programme.html |
 | Westcliff President's Scholarship for Afghanistan | USA | Master | Partly funded | Rolling | https://www.westcliff.edu/financial-aid/scholarships-and-grants/ |
 | Leiden University Excellence Scholarship (LExS) | Netherlands | Master | Partly funded | Rolling | https://www.universiteitleiden.nl/en/scholarships/sea/leiden-university-excellence-scholarship-lexs |
-
-
-
+| Holland Scholarship | Netherlands | Master | Partly funded | Rolling | https://www.studyinnl.org/finances/holland-scholarship |
+| Maastricht University Holland-High Potential scholarship | Netherlands | Master | Fully-funded | n.a.| https://www.maastrichtuniversity.nl/support/your-studies-begin/coming-maastricht-university-abroad/scholarships/maastricht-university | 
