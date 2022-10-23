@@ -1,5 +1,3 @@
-Here you can say lots of fun things about your site.
+This platform aims to support Afghanistan women to continue their studies and access their fundamental right to education. 
 
-Maybe say a some things about yourself.
-
-Or maybe what you plan to blog about.
+It provides essential knowledge on the currently available scholarship abroad and some tips to apply to them.  
